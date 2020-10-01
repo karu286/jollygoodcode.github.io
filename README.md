@@ -4,4 +4,4 @@
 
 Click watch if you would like to get a notification for a new post.
 
-RSS feed is also available: https://jollygoodcode.github.io/atom.xml.
+RSS feed is also available:https://jollygoodcode.github.io/atom.xml.
